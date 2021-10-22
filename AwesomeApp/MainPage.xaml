@@ -7,6 +7,9 @@
         <Frame BackgroundColor="#A705F8" Padding="24" CornerRadius="0">
             <Label Text="Bem vindo ao Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
+
+        <Button Text="Clique aqui!" Clicked="Handle_Clicked"/>
+
         <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
         <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
         <Label FontSize="16" Padding="30,24,30,0">

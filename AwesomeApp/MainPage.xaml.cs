@@ -14,5 +14,12 @@ namespace AwesomeApp
         {
             InitializeComponent();
         }
+
+        int cont = 0;
+        private void Handle_Clicked(object sender, EventArgs e)
+        {
+            cont++;
+            ((Button)sender).Text = $"Você clicou {cont} vezes!";
+        }
     }
 }
