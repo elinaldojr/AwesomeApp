@@ -4,7 +4,7 @@
              x:Class="AwesomeApp.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="#A705F8" Padding="24" CornerRadius="0">
+        <Frame BackgroundColor="#150c19" Padding="24" CornerRadius="0">
             <Label Text="Primeira aplicação no Xamarin" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
 
@@ -14,18 +14,7 @@
         <Button Text="Aumentar" Clicked="Aumentar" ClassId="bt_principal" BackgroundColor="AliceBlue" BorderWidth="2" BorderColor="Navy"/>
         <Button Text="Diminuir" Clicked="Diminuir" BackgroundColor="LavenderBlush" BorderWidth="2" BorderColor="Red"/>
 
-        <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
-        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
-        <Label FontSize="16" Padding="30,24,30,0">
-            <Label.FormattedText>
-                <FormattedString>
-                    <FormattedString.Spans>
-                        <Span Text="Learn more at "/>
-                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
-                    </FormattedString.Spans>
-                </FormattedString>
-            </Label.FormattedText>
-        </Label>
+        
     </StackLayout>
 
 </ContentPage>

@@ -584,3 +584,4 @@ E:\Users\Junior\workspace\AwesomeApp\AwesomeApp.Android\obj\Debug\110\res\drawab
 E:\Users\Junior\workspace\AwesomeApp\AwesomeApp.Android\obj\Debug\110\res\drawable-xxxhdpi\splash_logo_adaptive_back.png
 E:\Users\Junior\workspace\AwesomeApp\AwesomeApp.Android\obj\Debug\110\res\drawable-xxxhdpi\splash_logo_adaptive_fore.png
 E:\Users\Junior\workspace\AwesomeApp\AwesomeApp.Android\obj\Debug\110\android\src\crc64a8a173fc3f8c46da\SplashActivity.java
+E:\Users\Junior\workspace\AwesomeApp\AwesomeApp.Android\obj\Debug\110\AwesomeApp.Android.csproj.CopyComplete
