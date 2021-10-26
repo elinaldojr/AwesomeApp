@@ -1,6 +1,9 @@
 AwesomeApp.Droid.MainActivity, AwesomeApp.Android;crc64a8a173fc3f8c46da.MainActivity
 AwesomeApp.Droid.MainActivity;crc64a8a173fc3f8c46da.MainActivity
 awesomeapp.droid.MainActivity;crc64a8a173fc3f8c46da.MainActivity
+AwesomeApp.Droid.SplashActivity, AwesomeApp.Android;crc64a8a173fc3f8c46da.SplashActivity
+AwesomeApp.Droid.SplashActivity;crc64a8a173fc3f8c46da.SplashActivity
+awesomeapp.droid.SplashActivity;crc64a8a173fc3f8c46da.SplashActivity
 AndroidX.Activity.IOnBackPressedDispatcherOwner, Xamarin.AndroidX.Activity;androidx.activity.OnBackPressedDispatcherOwner
 AndroidX.Activity.IOnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
 androidx.activity.OnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner

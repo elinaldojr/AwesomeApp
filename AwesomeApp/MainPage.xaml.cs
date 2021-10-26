@@ -16,10 +16,16 @@ namespace AwesomeApp
         }
 
         int cont = 0;
-        private void Handle_Clicked(object sender, EventArgs e)
+        private void Aumentar(object sender, EventArgs e)
         {
             cont++;
-            ((Button)sender).Text = $"Você clicou {cont} vezes!";
+            qtd.Text = cont.ToString();
+        }
+
+        private void Diminuir(object sender, EventArgs e)
+        {
+            cont--;
+            qtd.Text = cont.ToString();
         }
     }
 }
